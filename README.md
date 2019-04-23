@@ -19,7 +19,7 @@ open windows 'cmd' typing cmd in search (not conda command window) as an adminis
 4) test installation> virtualenv --version
 
 5) Download folder from the drive link and extract it to 'C' drive and rename this folder to 'Drowsiness_detection', if already renamed then please ignore.
-At this time if you open 'Drowsiness_detection' folder it would contains some files and folder like alarm, detect_drowsiness, shape_predictor_68_face_landmarks.dat
+At this time if you open 'Drowsiness_detection' folder it would contains some files and folder like alarm, detect_drowsiness, shape_predictor_68_face_landmarks.dat (NOTE: You can download 'shape_predictor_68_face_landmarks.dat' file from my drive link https://drive.google.com/file/d/1PH6iDjnrC8ETzIcvySSB7Xa16ce9TOAR/view?usp=sharing)
 
 6) Now change the directroy to 'Drowsiness_detection' folder
 (at this type your command prompt window should look like C:\Drowsiness_detection>)
