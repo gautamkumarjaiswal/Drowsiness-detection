@@ -56,3 +56,6 @@ At this time if you open 'Drowsiness_detection' folder it would contains some fi
 If you want to save alarm audio file run following command
 
 17)(env) C:\Drowsiness_detection>python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
+
+Reference:
+[1] https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
